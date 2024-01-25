@@ -1,7 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fandanabil1379&label=Profile%20views&color=0e75b6&style=flat" alt="fandanabil1379" /> </p>
 <h1 align="center">Hi 👋, I'm Shafanda Nabil Sembodo</h1>
 <h3 align="center">A passionate Artificial Intelligence from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fandanabil1379&label=Profile%20views&color=0e75b6&style=flat" alt="fandanabil1379" /> </p>
 
 - 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/)
 
