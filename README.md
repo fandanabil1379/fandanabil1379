@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shafanda Nabil Sembodo</h1>
 <h3 align="center">A passionate Artificial Intelligence from Indonesia</h3>
 
