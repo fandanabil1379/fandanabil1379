@@ -50,13 +50,14 @@
 
 |No|   Title   |    DOI    |  Journal  |
 |--|-----------|-----------|-----------|
-|01| [*Radial Basis Network Estimator of Oxygen Content in The Flue Gas of Debutanizer Reboiler (2022)*](https://doi.org/10.11591/ijece.v12i3.pp3044-3050) |   <a href="https://doi.org/10.11591/ijece.v12i3.pp3044-3050" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:10.11591/ijece.v12i3.pp3044-3050?style=fflat-square&labelColor=FFD43B"></a> | **[IJECE](https://ijece.iaescore.com/index.php/IJECE/index)** |
+|01| [*Radial Basis Network Estimator of Oxygen Content in The Flue Gas of Debutanizer Reboiler (2022)*](https://doi.org/10.11591/ijece.v12i3.pp3044-3050) |   <a href="https://doi.org/10.11591/ijece.v12i3.pp3044-3050" target="_blank"><img alt="DOI" width ='500px' src="https://img.shields.io/badge/DOI:10.11591/ijece.v12i3.pp3044-3050?style=fflat-square&labelColor=FFD43B"></a> | **[IJECE](https://ijece.iaescore.com/index.php/IJECE/index)** |
 
 <br>  
     
 📃 Data Science Project
 |No|   Title   |    Description    |  Link  |
 |--|-----------|-------------------|--------|
+|01| [*Electronic Nose Detecting COVID19 Through Expiratory Gas*] | [GeNose C19 is an AI-based electronic nose that mimics the human nose mechanism to detect COVID-19.] | **[GeNose C19]([https://ijece.iaescore.com/index.php/IJECE/index](https://theconversation.com/indonesian-made-covid-19-breathalyser-sensitivity-comparable-to-rt-pcr-155497#:~:text=GeNose%20C19%20is%20an%20electronic%20nose%20mimicking%20the,increasing%20data%20input%20from%20the%20valid%20measurement%20results.))** |
 
 
 <br>  
