@@ -26,6 +26,7 @@
 
 - 📫 Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
 
+<br> 
 
 <p align="center">
     <a href="https://github.com/fandanabil1379?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -59,6 +60,7 @@
 
 
 <br>  
+</details>
 
 <details>
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
