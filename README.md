@@ -16,6 +16,8 @@
 
 <h3 align="left">Biography:</h3>
 
+- 🏢 Bachelor's Degree in Engineering at **Gadjah Mada University**
+
 - 🔭 I’m currently working on <a href="https://purwadhika.com/" target="_blank"><img src="https://img.shields.io/badge/Purwadhika-green"></a>
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/MLOps-008080">
