@@ -24,9 +24,6 @@
 
 - 📫 Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
 
-- 📄 Know about my experiences [Here](https://linkedin.com/in/shafandanabilsembodo)
-
-<h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
     <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
