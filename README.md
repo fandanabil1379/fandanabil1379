@@ -1,9 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h3 align="center"> 
+<h2 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Shafanda Nabil Sembodo!
     <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
-</h3> 
+</h2> 
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fandanabil1379" alt="fandanabil1379"/>       
