@@ -1,5 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fsanchia-ivena-97013317b&psig=AOvVaw3BBA6vT_npZ1uqG8QxVleQ&ust=1707143576036000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCvtcXzkYQDFQAAAAAdAAAAABAE)]
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shafanda Nabil Sembodo</h1>
 <h3 align="center">A passionate Artificial Intelligence from Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")></img>
