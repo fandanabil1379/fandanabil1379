@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shafanda Nabil Sembodo</h1>
 <h3 align="center">A passionate Artificial Intelligence from Indonesia</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")></img>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fandanabil1379&label=Profile%20views&color=0e75b6&style=flat" alt="fandanabil1379"/></p>
 
 - 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/)
