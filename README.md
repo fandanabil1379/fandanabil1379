@@ -39,6 +39,8 @@
     <a target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
 </p>
 
+<br> 
+
 <details>
 <summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand) 🔗 </i> </summary>
 <br>  
@@ -47,7 +49,16 @@
 
 |No|   Title   |    DOI    |  Journal  |
 |--|-----------|-----------|-----------|
-|01| [*An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory (2021)*](https://doi.org/10.11591/ijece.v12i3.pp3044-3050) |   <a href="https://doi.org/10.11591/ijece.v12i3.pp3044-3050" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:10.11591/ijece.v12i3.pp3044-3050?style=fflat-square&labelColor=FFD43B"></a> | **[Complexity](https://www.hindawi.com/journals/complexity)** |
+|01| [*Radial Basis Network Estimator of Oxygen Content in The Flue Gas of Debutanizer Reboiler (2022)*](https://doi.org/10.11591/ijece.v12i3.pp3044-3050) |   <a href="https://doi.org/10.11591/ijece.v12i3.pp3044-3050" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:10.11591/ijece.v12i3.pp3044-3050?style=fflat-square&labelColor=FFD43B"></a> | **[IJECE](https://ijece.iaescore.com/index.php/IJECE/index)** |
+
+<br>  
+    
+📃 Data Science Project
+|No|   Title   |    Description    |  Link  |
+|--|-----------|-------------------|--------|
+
+
+<br>  
 
 <details>
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
