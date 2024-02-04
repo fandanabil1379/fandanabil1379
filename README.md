@@ -38,3 +38,11 @@
     <a target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
     <a target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
 </p>
+
+<details>
+<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
+</p>
+</details>
