@@ -7,15 +7,12 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fandanabil1379" alt="fandanabil1379"/>       
-    <a href="https://github.com/fandanabil1379?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/fandanabil1379" alt="Repos"/></a>
-    <img src="https://badges.pufler.dev/years/fandanabil1379" alt="Active_Years"/>
-    <a href="https://github.com/fandanabil1379/fandanabil1379" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/fandanabil1379" alt="commits"/>
     <a href="https://github.com/fandanabil1379/fandanabil1379/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/fandanabil1379/fandanabil1379" /></a>
     <a href="https://github.com/fandanabil1379?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/fandanabil1379?color=4C1&logo=github"></a>
     <a href="https://github.com/fandanabil1379/fandanabil1379" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/fandanabil1379/fandanabil1379?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+    <a href="https://github.com/fandanabil1379" target="_blank"><img alt="fandanabil1379" src="https://badges.pufler.dev/visits/fandanabil1379/fandanabil1379?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <img src="https://badges.pufler.dev/gists/fandanabil1379" alt="fandanabil1379"/>
+    <img src="https://readme-jokes.vercel.app/api" alt="fandanabil1379"/>
 </p> 
 
 - 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/)
