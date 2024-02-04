@@ -62,6 +62,7 @@
 
 <details>
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<br> 
 <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fandanabil1379&theme=jolly&show_icons=true" alt="Nabil's Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=fandanabil1379&&theme=jolly&show_icons=true" alt="fandanabil1379"/>
