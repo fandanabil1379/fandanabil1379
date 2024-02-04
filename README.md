@@ -1,8 +1,22 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Shafanda Nabil Sembodo! Lecturer - Data Science & Machine Learning<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Shafanda Nabil Sembodo!
+    <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=fandanabil1379" alt="fandanabil1379"/>       
+    <!--<a href="https://github.com/fandanabil1379?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/fandanabil1379" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
+    <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
+    <a href="https://github.com/milaan9/milaan9/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/milaan9" /></a>
+    <a href="https://github.com/milaan9?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
+    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fandanabil1379&label=Profile%20views&color=0e75b6&style=flat" alt="fandanabil1379"/></p>
 
