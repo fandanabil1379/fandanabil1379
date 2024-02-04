@@ -1,6 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Shafanda Nabil Sembodo</h1>
-<h3 align="center">A passionate Artificial Intelligence from Indonesia</h3>
+
+<h3 align="center"> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Shafanda Nabil Sembodo! Lecturer - Data Science & Machine Learning<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+</h3> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fandanabil1379&label=Profile%20views&color=0e75b6&style=flat" alt="fandanabil1379"/></p>
 
 - 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/)
