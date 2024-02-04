@@ -16,13 +16,13 @@
 
 <h3 align="left">Biography:</h3>
 
-- 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/) <a href="https://purwadhika.com/" target="_blank"><img src="https://img.shields.io/badge/Purwadhika Digital Technology School-green"></a>
+- 🔭 I’m currently working on <a href="https://purwadhika.com/" target="_blank"><img src="https://img.shields.io/badge/Purwadhika-green"></a>
 
-- 🌱 I’m currently learning **Deep Learning & MLOps**
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/MLOps-008080">
 
-- 🤝 I’m looking for help with [Hands-on Data Science Project](https://github.com/fandanabil1379/Hands-On-Data-Science)
+- 🤝 Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
 
-- 📫 How to reach me **shafanda.nabil.s@gmail.com**
+- 📫 Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
 
 - 📄 Know about my experiences [Here](https://linkedin.com/in/shafandanabilsembodo)
 
