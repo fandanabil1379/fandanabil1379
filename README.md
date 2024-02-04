@@ -16,7 +16,7 @@
 
 <h3 align="left">Biography:</h3>
 
-- 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/)
+- 🔭 I’m currently working on [Purwadhika Digital Technology School](https://purwadhika.com/) <a href="https://purwadhika.com/" target="_blank"><img src="https://img.shields.io/badge/Purwadhika Digital Technology School-green"></a>
 
 - 🌱 I’m currently learning **Deep Learning & MLOps**
 
