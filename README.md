@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F9-best-free-online-data-science-courses-2020-bernard-marr&psig=AOvVaw37mHl13EaI77A_lcu9LzCy&ust=1707148972076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjMs9KHkoQDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F9-best-free-online-data-science-courses-2020-bernard-marr&psig=AOvVaw37mHl13EaI77A_lcu9LzCy&ust=1707148972076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjMs9KHkoQDFQAAAAAdAAAAABAJ)]
 
 <h2 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Shafanda Nabil Sembodo!
