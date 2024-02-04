@@ -18,7 +18,7 @@
 
 - 🏢 Bachelor's Degree in Engineering at **Gadjah Mada University**
 
-- 🔭 I’m currently working on **Purwadhika Digital Technology School
+- 🔭 I’m currently working on **Purwadhika Digital Technology School**
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/MLOps-008080">
 
